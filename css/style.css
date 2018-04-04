@@ -1,0 +1,89 @@
+body {
+    color: #6c7279;
+    font-size: 14px;
+    line-height: 21px;
+    font-family: 'Raleway', sans-serif;
+}
+
+.page-header {
+    background-color: #3a3e64;
+}
+
+.site-navigation {
+    color: #ffffff;
+    font-size: 13px;
+    list-style: none;
+}
+
+.main-menu-list {
+    list-style: none;
+}
+
+.site-navigation a {
+    color: #ffffff;
+    text-decoration: none;
+    font-weight: 700;
+    text-transform: uppercase;
+}
+
+.our-feauters-list h3 {
+    line-height: 17px;
+    font-size: 14px;
+    color: #2d3033;
+}
+
+.team-name {
+    font-size: 22px;
+    line-height: 26px;
+    color: #2d3033;
+}
+
+.team-occupation {
+    color: #e84545;
+    font-size: 13px;
+    line-height: 15px;
+}
+
+.team-lisr-socials a {
+    list-style: none;
+    text-decoration: none;
+}
+
+.our-feauters-list {
+    list-style: none;
+}
+
+.team-list-item {
+    list-style: none;
+}
+
+.team-lisr-socials {
+    list-style: none;
+}
+
+footer {
+    background-color: #3a3e64;
+}
+
+.page-footer {
+    color: #ffffff;
+    font-size: 14px;
+    line-height: 22px;
+}
+
+.name-location {
+    font-weight: 700;
+}
+
+.page-footer a {
+    color: #ffffff;
+    text-decoration: none;
+}
+
+.page-footer li {
+    list-style: none;
+}
+
+.name-location p {
+    
+}
